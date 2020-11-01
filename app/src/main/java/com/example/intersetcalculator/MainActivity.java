@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 float NewR=R/100;
                 float I=P*NewR*Y;
 
-                Answer.setText(" The Interset is "+I);
+                Answer.setText(" The Interset "+I);
 
 
 
